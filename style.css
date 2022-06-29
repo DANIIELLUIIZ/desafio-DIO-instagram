@@ -185,6 +185,7 @@ input {
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 
   margin: 8px 0;
   gap: 35px;
@@ -196,8 +197,6 @@ input {
 
   margin-top: 10px;
   border-radius: 10px;
-
-  cursor: pointer;
 }
 
 @media (max-width: 900px) {
